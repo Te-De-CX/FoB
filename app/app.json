@@ -7,14 +7,13 @@
     "icon": "./assets/images/App-Logo.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/App-Logo.png",
-        "backgroundColor": "#F9A11B"
+        "backgroundColor": "#000000"
       }
     },
     "web": {
@@ -30,7 +29,7 @@
           "image": "./assets/images/App-Logo.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#F9A11B"
+          "backgroundColor": "#000000"
         }
       ]
     ],
